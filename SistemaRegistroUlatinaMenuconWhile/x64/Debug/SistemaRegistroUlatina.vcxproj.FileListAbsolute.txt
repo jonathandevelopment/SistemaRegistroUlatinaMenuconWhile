@@ -1,0 +1,2 @@
+C:\Users\HP\Documents\Dev\SistemaRegistroUlatina\x64\Debug\SistemaRegistroUlatina.exe
+C:\Users\HP\Documents\Dev\SistemaRegistroUlatina - test menu con while\x64\Debug\SistemaRegistroUlatina.exe
